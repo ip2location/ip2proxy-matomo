@@ -1,0 +1,32 @@
+{
+    "IP2Proxy": {
+        "ProxyDetails": "Proxy Details",
+        "Proxy": "Proxy",
+		"ProxyType": "Proxy Type",
+		"Isp": "ISP",
+		"Domain": "Domain",
+		"UsageType": "Usage Type",
+		"Asn": "ASN",
+		"Threat": "Threat",
+        "LastVisit": "Last visit",
+        "Type": "Type",
+        "LastVisitDuration": "Last visit duration",
+        "ReferrerType": "Referrer type",
+        "ReferrerName": "Referrer name",
+        "Device": "Device",
+        "Country": "Country",
+        "Region": "Region",
+        "City": "City",
+        "NumberOfVisits": "Number of visits",
+        "IP2ProxyBinDatabase": "IP2Proxy BIN Database",
+        "DownloadYourBinDatabase": "Download your free IP2Proxy database from %1$sIP2Location LITE%2$s website. For more accurate results, please use %3$sIP2Proxy Commercial%4$s database.<br>Upload the BIN database to <strong>/misc</strong> and insert the absolute path at here.",
+        "SubscribeToEmailReport": "Subscribe to the email reports",
+        "WantToReceiveDailyReport": "I want to receive the daily reports by email with the proxy details that visited my websites.",
+        "ProxyDetailsReportSubject": "[%1$s] Your daily report / Proxy Details",
+        "NoOneVisitedWebsiteYesterday": "We are sorry, but no one visited your website yesterday...",
+        "Hi": "Hi,",
+        "FindBelowProxyDetailsReport": "You'll find below the Proxy Report for yesterday.",
+        "ThanksForUsing": "Thanks for using IP2Location service.",
+        "LifeTimeOfCacheForResultsInWeeks": "Number of weeks during which the results returned must be cached."
+    }
+}

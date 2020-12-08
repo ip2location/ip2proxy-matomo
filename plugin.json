@@ -1,0 +1,30 @@
+{
+    "name": "IP2Proxy",
+    "description": "Get the proxy details of visitors to your website.",
+    "version": "0.1.0",
+    "theme": false,
+    "require": {
+        "matomo": ">=4.0.0-b1,<5.0.0-b1"
+    },
+    "authors": [
+        {
+            "name": "IP2Location",
+            "email": "support@ip2location.com",
+            "homepage": "http:\/\/www.ip2location.com"
+        }
+    ],
+    "support": {
+        "email": "support@ip2location.com",
+        "issues": "https:\/\/github.com\/ip2location\/ip2proxy-matomo\/issues",
+        "wiki": "https:\/\/github.com\/ip2location\/ip2proxy-matomo\/wiki",
+        "source": "https:\/\/github.com\/ip2location\/ip2proxy-matomo"
+    },
+    "homepage": "https:\/\/github.com\/ip2location\/ip2proxy-matomo",
+    "license": "GPL-3.0+",
+    "keywords": [
+        "ip",
+        "proxy",
+        "report",
+        "geolocation"
+    ]
+}
