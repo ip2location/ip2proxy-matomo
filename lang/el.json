@@ -1,1 +1,32 @@
-{}
+{
+    "IP2Proxy": {
+        "Asn": "Λεπτομέρειες Διαμεσολαβητή",
+        "City": "Πόλη",
+        "Country": "Χώρα",
+        "Device": "Συσκευή",
+        "Domain": "Όνομα χώρου",
+        "DownloadYourBinDatabase": "Μεταφορτώστε την δική σας δωρεάν IP2Proxy βάση δεδομένων από την ιστοσελίδα %1$sP2Location LITE%2$s. Για περισσότερο ακριβή αποτελέσματα, χρησιμοποιήστε τη βάση δεδομένων του %3$sIP2Proxy Commercial%4$s.<br>Ανεβάστε τη βάση δεδομένων BIN στο <strong>/misc</strong> και εισάγετε την απόλυτη διαδρομή εδώ.",
+        "FindBelowProxyDetailsReport": "Παρακάτω θα βρείτε την Αναφορά Διαμεσολαβητή για χθες.",
+        "Hi": "Γεια σας,",
+        "IP2ProxyBinDatabase": "Βάση Δεδομένων BIN IP2Proxy",
+        "Isp": "ISP",
+        "LastVisit": "Τελευταία επίσκεψη",
+        "LastVisitDuration": "Διάρκεια τελευταίας επίσκεψης",
+        "LifeTimeOfCacheForResultsInWeeks": "Αριθμός εβδομάδων για τις οποίες τα αποτελέσματα που επιστρέφονται θα μπαίνουν σε προσωρινή μνήμη.",
+        "NoOneVisitedWebsiteYesterday": "Ζητούμε συγγνώμη, αλλά κανείς δεν επισκέφθηκε τον ιστοτόπο σας χθες…",
+        "NumberOfVisits": "Αριθμός επισκέψεων",
+        "Proxy": "Διαμεσολαβητής",
+        "ProxyDetails": "Proxy Details_test",
+        "ProxyDetailsReportSubject": "[%1$s] Η καθημερινή σας αναφορά / Λεπτομέρειες Διαμεσολαβητή",
+        "ProxyType": "Τύπος Διαμεσολαβητή",
+        "ReferrerName": "Όνομα αναφορέα",
+        "ReferrerType": "Τύπος Αναφορέα",
+        "Region": "Περιοχή",
+        "SubscribeToEmailReport": "Εγγραφή στις αναφορές με email",
+        "ThanksForUsing": "Ευχαριστούμε για τη χρήση της υπηρεσίας IP2Location.",
+        "Threat": "Απειλή",
+        "Type": "Τύπος",
+        "UsageType": "Χρήση Τύπου",
+        "WantToReceiveDailyReport": "Θέλω να λαμβάνω τις ημερήσιες αναφορές με email με τις πληροφορίες διαμεσολαβητή που επισκέφθηκαν τους ιστοτόπους μου."
+    }
+}
