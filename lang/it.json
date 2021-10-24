@@ -1,1 +1,18 @@
-{}
+{
+    "IP2Proxy": {
+        "Asn": "Dettagli proxy",
+        "City": "Città",
+        "Country": "Nazione",
+        "Device": "Dispositivo",
+        "Domain": "Dominio",
+        "FindBelowProxyDetailsReport": "Trovi sotto il Report Proxy di ieri.",
+        "Hi": "Ciao,",
+        "IP2ProxyBinDatabase": "Database IP2Proxy BIN",
+        "Isp": "ISP",
+        "LastVisit": "Ultima visita",
+        "LastVisitDuration": "Durata ultima visita",
+        "NoOneVisitedWebsiteYesterday": "Siamo spiacenti, ma nessuno ha visitato il tuo sito ieri…",
+        "NumberOfVisits": "Numero di visite",
+        "Proxy": "Proxy"
+    }
+}
