@@ -1,1 +1,32 @@
-{}
+{
+    "IP2Proxy": {
+        "Asn": "Vekil sunucu bilgileri",
+        "City": "İl",
+        "Country": "Ülke",
+        "Device": "Aygıt",
+        "Domain": "Etki alanı",
+        "DownloadYourBinDatabase": "Ücretsiz IP2Proxy veritabanınızı %1$sIP2Location LITE%2$s web sitesinden indirin. Daha doğru sonuçlar için lütfen ücretli %3$sIP2Proxy Commercial%4$s veritabanını kullanın.<br>BIN veritabanını <strong>/misc</strong> dizinine yükleyin ve mutlak yolu buraya yazın.",
+        "FindBelowProxyDetailsReport": "Dünün vekil sunucu raporunu aşağıda bulabilirsiniz.",
+        "Hi": "Merhaba,",
+        "IP2ProxyBinDatabase": "IP2Proxy BIN veritabanı",
+        "Isp": "İnternet hizmeti sağlayıcı",
+        "LastVisit": "Son ziyaret",
+        "LastVisitDuration": "Son ziyaret süresi",
+        "LifeTimeOfCacheForResultsInWeeks": "Elde edilen sonuçların ön bellekte tutulacağı hafta sayısı.",
+        "NoOneVisitedWebsiteYesterday": "Maalesef web sitenizi dün hiç kimse ziyaret etmemiş…",
+        "NumberOfVisits": "Ziyaret sayısı",
+        "Proxy": "Vekil sunucu",
+        "ProxyDetails": "Vekil sunucu ayrıntıları_sınaması",
+        "ProxyDetailsReportSubject": "[%1$s] günlük rapor / vekil sunucu ayrıntıları",
+        "ProxyType": "Vekil sunucu türü",
+        "ReferrerName": "Yönlendiren adı",
+        "ReferrerType": "Yönlendiren türü",
+        "Region": "Bölge",
+        "SubscribeToEmailReport": "E-posta raporlarına abone ol",
+        "ThanksForUsing": "IP2Location hizmetini kullandığınız için teşekkür ederiz.",
+        "Threat": "Tehdit",
+        "Type": "Tür",
+        "UsageType": "Kullanım türü",
+        "WantToReceiveDailyReport": "Web sitelerimi ziyaret eden vekil sunucu ayrıntılarının bulunduğu günlük raporları e-posta ile almak istiyorum."
+    }
+}
