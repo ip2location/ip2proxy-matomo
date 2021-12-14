@@ -1,1 +1,19 @@
-{}
+{
+    "IP2Proxy": {
+        "Asn": "Mellomtjener-detaljer",
+        "City": "By",
+        "Country": "Land",
+        "Device": "Enhet",
+        "Domain": "Domene",
+        "Hi": "Hei,",
+        "LastVisit": "Siste besøk",
+        "NumberOfVisits": "Antall besøk",
+        "Proxy": "Mellomtjener",
+        "ProxyType": "Mellomtjenertype",
+        "ReferrerName": "Henvisernavn",
+        "ReferrerType": "Henvisertype",
+        "Threat": "Trussel",
+        "Type": "Type",
+        "UsageType": "Brukstype"
+    }
+}
