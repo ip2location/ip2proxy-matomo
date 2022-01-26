@@ -1,1 +1,32 @@
-{}
+{
+    "IP2Proxy": {
+        "Asn": "プロキシ詳細",
+        "City": "市",
+        "Country": "国",
+        "Device": "装置",
+        "Domain": "ドメイン",
+        "DownloadYourBinDatabase": "無償なIP2Proxyデータベースを%1$sIP2Location LITE%2$sのウェブサイトからダウンロードしてください。もっと正確な結果を得るためには、%3$sIP2Proxy コマーシャル%4$sのデータベースをご利用ください。<br>BINデータベースを<strong>/misc</strong>にアップロードして、ここに絶対的なパスを入れてください。",
+        "FindBelowProxyDetailsReport": "昨日のプロキシーレポートを以下に掲載します。",
+        "Hi": "こんにちは、",
+        "IP2ProxyBinDatabase": "IP2Proxy BINデータベース",
+        "Isp": "ISP",
+        "LastVisit": "最後の訪問",
+        "LastVisitDuration": "最後の訪問の期間",
+        "LifeTimeOfCacheForResultsInWeeks": "返された結果がキャッシュされなければならない間に週数。",
+        "NoOneVisitedWebsiteYesterday": "申し訳ございませんが、昨日は誰もウェブサイトを訪れませんでした…",
+        "NumberOfVisits": "来訪回数",
+        "Proxy": "プロキシ",
+        "ProxyDetails": "プロキシの詳細_test",
+        "ProxyDetailsReportSubject": "［%1$s］あなたの日報／プロキシの詳細",
+        "ProxyType": "プロキシのタイプ",
+        "ReferrerName": "リファラの名",
+        "ReferrerType": "リファラのタイプ",
+        "Region": "地域",
+        "SubscribeToEmailReport": "メールレポートを購読します",
+        "ThanksForUsing": "IP2Locationのサービスをご利用いただきありがとうございます。",
+        "Threat": "脅威",
+        "Type": "タイプ",
+        "UsageType": "使用のタイプ",
+        "WantToReceiveDailyReport": "ウェブサイトを訪問したプロキシの詳細とメールで毎日のレポートを受信したいです。"
+    }
+}
