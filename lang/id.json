@@ -1,1 +1,5 @@
-{}
+{
+    "IP2Proxy": {
+        "WantToReceiveDailyReport": "Saya ingin menerima laporan harian melalui email dengan rincian proxy yang mengunjungi situs web saya."
+    }
+}
