@@ -1,1 +1,31 @@
-{}
+{
+    "IP2Proxy": {
+        "Asn": "Hollësi Ndërmjetësi",
+        "City": "Qytet",
+        "Country": "Vend",
+        "Device": "Pajisje",
+        "Domain": "Përkatësi",
+        "DownloadYourBinDatabase": "Shkarkoni bazën tuaj të të dhënave falas IP2Proxy që nga sajti %1$sIP2Location LITE%2$s. Për përfundime më të përpikta, ju lutemi, përdorni bazën e të dhënave %3$sIP2Proxy Commercial%4$s.<br>Ngarkojeni bazën e të dhënave te <strong>/misc</strong> dhe futni shtegun absolut këtu.",
+        "FindBelowProxyDetailsReport": "Më poshtë do të gjeni Raportin e Ndërmjetësit për dje.",
+        "Hi": "Njatjeta,",
+        "IP2ProxyBinDatabase": "Bazë të dhënash IP2Proxy BIN",
+        "Isp": "ISP",
+        "LastVisit": "Vizita e fundit",
+        "LastVisitDuration": "Kohëzgjatje e vizitës së fundit",
+        "LifeTimeOfCacheForResultsInWeeks": "Numër javësh gjatë të cilave përfundimet që jepen duhen ruajtur në fshehtinë.",
+        "NoOneVisitedWebsiteYesterday": "Na ndjeni, por sajtin tuaj dje s’e ka vizituar kush…",
+        "NumberOfVisits": "Numër vizitash",
+        "Proxy": "Ndërmjetës",
+        "ProxyDetailsReportSubject": "[%1$s] Raporti i përditshëm / Hollësi Ndërmjetësi Tuajat",
+        "ProxyType": "Lloj Ndërmjetësi",
+        "ReferrerName": "Emër referuesi",
+        "ReferrerType": "Lloj referuesi",
+        "Region": "Rajon",
+        "SubscribeToEmailReport": "Pajtohuni te raporte me email",
+        "ThanksForUsing": "Faleminderit që përdorni shërbimin IP2Location.",
+        "Threat": "Kërcënim",
+        "Type": "Lloj",
+        "UsageType": "Lloj Përdorimi",
+        "WantToReceiveDailyReport": "Dua të marr raporte të përditshme me email, me hollësi të ndërmjetësve që vizituan sajtet e mi."
+    }
+}
