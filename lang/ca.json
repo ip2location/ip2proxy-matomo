@@ -1,1 +1,32 @@
-{}
+{
+    "IP2Proxy": {
+        "Asn": "Detalls del servidor intermediari",
+        "City": "Ciutat",
+        "Country": "País",
+        "Device": "Dispositiu",
+        "Domain": "Domini",
+        "DownloadYourBinDatabase": "Baixeu la vostra base de dades IP2Proxy gratuïta des del lloc web %1$sIP2Location LITE%2$s. Per obtenir resultats més precisos, utilitzeu la base de dades %3$sIP2Proxy Commercial%4$s.<br>Pengeu la base de dades BIN a <strong>/misc</strong> i inseriu el camí absolut aquí.",
+        "FindBelowProxyDetailsReport": "A continuació trobareu l'informe de servidor intermediari d'ahir.",
+        "Hi": "Bones,",
+        "IP2ProxyBinDatabase": "Base de dades IP2Proxy BIN",
+        "Isp": "Proveïdor de serveis",
+        "LastVisit": "Darrera visita",
+        "LastVisitDuration": "Durada de la darrera visita",
+        "LifeTimeOfCacheForResultsInWeeks": "Nombre de setmanes durant les quals els resultats retornats s'han d'emmagatzemar a la memòria cau.",
+        "NoOneVisitedWebsiteYesterday": "Sap greu, però ningú va visitar el teu lloc web ahir…",
+        "NumberOfVisits": "Nombre de visites",
+        "Proxy": "Servidor intermediari",
+        "ProxyDetails": "Detalls del proxy_prova",
+        "ProxyDetailsReportSubject": "[%1$s] El vostre informe diari/Detalls del servidor intermediari",
+        "ProxyType": "Tipus de servidor intermediari",
+        "ReferrerName": "Nom del referent",
+        "ReferrerType": "Tipus de referent",
+        "Region": "Regió",
+        "SubscribeToEmailReport": "Subscriu-te als informes per correu electrònic",
+        "ThanksForUsing": "Gràcies per utilitzar el servei IP2Location.",
+        "Threat": "Amenaça",
+        "Type": "Tipus",
+        "UsageType": "Tipus d'ús",
+        "WantToReceiveDailyReport": "Vull rebre els informes diaris per correu electrònic amb els detalls dels proxy que han visitat els meus llocs web."
+    }
+}
