@@ -1,5 +1,7 @@
 {
     "IP2Proxy": {
+        "City": "Kota",
+        "Country": "Negara",
         "WantToReceiveDailyReport": "Saya ingin menerima laporan harian melalui email dengan rincian proxy yang mengunjungi situs web saya."
     }
 }
