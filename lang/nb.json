@@ -5,6 +5,7 @@
         "Country": "Land",
         "Device": "Enhet",
         "Domain": "Domene",
+        "DownloadYourBinDatabase": "Last ned din gratis IP2Proxy-database fra %1$sIP2Location LITE%2$s-nettside. For mer nøyaktige resultater kan du bruke %3$sIP2Proxy Commercial%4$s-databasen.<br>Last opp BIN-databasen til <strong>/misc</strong>og sett inn den absolutte stien her.",
         "FindBelowProxyDetailsReport": "Du finner mellomtjenerrapporten for i går nedenfor.",
         "Hi": "Hei,",
         "IP2ProxyBinDatabase": "BIN-database for IP2Proxy",
