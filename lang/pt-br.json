@@ -5,6 +5,8 @@
         "Country": "País",
         "Device": "Dispositivo",
         "Domain": "Domínio",
-        "DownloadYourBinDatabase": "Baixe seu banco de dados IP2Proxy gratuito do site %1$sIP2Location LITE%2$s. Para resultados mais precisos, use o banco de dados %3$sIP2Proxy Commercial%4$s. <br>Coloque o banco de dados BIN em <strong>/misc</strong> e insira o caminho absoluto aqui."
+        "DownloadYourBinDatabase": "Baixe seu banco de dados IP2Proxy gratuito do site %1$sIP2Location LITE%2$s. Para resultados mais precisos, use o banco de dados %3$sIP2Proxy Commercial%4$s. <br>Coloque o banco de dados BIN em <strong>/misc</strong> e insira o caminho absoluto aqui.",
+        "FindBelowProxyDetailsReport": "Você encontrará abaixo o Relatório de Proxy de ontem.",
+        "Hi": "Olá,"
     }
 }
