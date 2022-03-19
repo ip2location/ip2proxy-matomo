@@ -1,7 +1,32 @@
 {
     "IP2Proxy": {
+        "Asn": "Detail Proksi",
         "City": "Kota",
         "Country": "Negara",
-        "WantToReceiveDailyReport": "Saya ingin menerima laporan harian melalui email dengan rincian proxy yang mengunjungi situs web saya."
+        "Device": "Perangkat",
+        "Domain": "Domain",
+        "DownloadYourBinDatabase": "Unduh basis data IP2Proxy gratis dari situs web %1$sIP2Location LITE%2$s. Untuk hasil yang lebih akurat, gunakan basis data %3$sIP2Proxy Commercial%4$s.<br>Unggah basis data BIN ke <strong>/misc</strong> dan masukkan lokasi absolut di sini.",
+        "FindBelowProxyDetailsReport": "Anda akan menemukan di bawah Laporan Proksi untuk kemarin.",
+        "Hi": "Hai,",
+        "IP2ProxyBinDatabase": "Basis Data BIN IP2Proxy",
+        "Isp": "ISP",
+        "LastVisit": "Kunjungan terakhir",
+        "LastVisitDuration": "Durasi kunjungan terakhir",
+        "LifeTimeOfCacheForResultsInWeeks": "Jumlah minggu di mana hasil yang dikembalikan harus disimpan.",
+        "NoOneVisitedWebsiteYesterday": "Maaf, tetapi tidak ada yang mengunjungi situs web Anda kemarin…",
+        "NumberOfVisits": "Jumlah kunjungan",
+        "Proxy": "Proksi",
+        "ProxyDetails": "Detail_tes Proksi",
+        "ProxyDetailsReportSubject": "[%1$s] Laporan harian Anda / Detail Proksi",
+        "ProxyType": "Jenis Proksi",
+        "ReferrerName": "Nama perujuk",
+        "ReferrerType": "Jenis perujuk",
+        "Region": "Wilayah",
+        "SubscribeToEmailReport": "Berlangganan laporan surel",
+        "ThanksForUsing": "Terima kasih karena telah menggunakan layanan IP2Location.",
+        "Threat": "Ancaman",
+        "Type": "Jenis",
+        "UsageType": "Jenis Penggunaan",
+        "WantToReceiveDailyReport": "Saya ingin menerima laporan harian melalui surel dengan rincian proksi yang mengunjungi situs web saya."
     }
 }
