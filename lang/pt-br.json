@@ -7,6 +7,26 @@
         "Domain": "Domínio",
         "DownloadYourBinDatabase": "Baixe seu banco de dados IP2Proxy gratuito do site %1$sIP2Location LITE%2$s. Para resultados mais precisos, use o banco de dados %3$sIP2Proxy Commercial%4$s. <br>Coloque o banco de dados BIN em <strong>/misc</strong> e insira o caminho absoluto aqui.",
         "FindBelowProxyDetailsReport": "Você encontrará abaixo o Relatório de Proxy de ontem.",
-        "Hi": "Olá,"
+        "Hi": "Olá,",
+        "IP2ProxyBinDatabase": "Banco de dados BIN IP2Proxy",
+        "Isp": "ISP",
+        "LastVisit": "Última visita",
+        "LastVisitDuration": "Duração da última visita",
+        "LifeTimeOfCacheForResultsInWeeks": "Número de semanas durante as quais os resultados retornados devem ser armazenados em cache.",
+        "NoOneVisitedWebsiteYesterday": "Lamentamos, mas ninguém visitou seu site ontem…",
+        "NumberOfVisits": "Número de visitas",
+        "Proxy": "Proxy",
+        "ProxyDetails": "Detalhes do teste de proxy",
+        "ProxyDetailsReportSubject": "[%1$s] Seu relatório diário/Detalhes do proxy",
+        "ProxyType": "Tipo de proxy",
+        "ReferrerName": "Nome do referenciador",
+        "ReferrerType": "Tipo de referenciador",
+        "Region": "Região",
+        "SubscribeToEmailReport": "Assine os relatórios de e-mail",
+        "ThanksForUsing": "Obrigado por usar o serviço IP2Location.",
+        "Threat": "Aviso",
+        "Type": "Tipo",
+        "UsageType": "Tipo de Uso",
+        "WantToReceiveDailyReport": "Quero receber os relatórios diários por e-mail com os detalhes do proxy que visitou meus sites."
     }
 }
