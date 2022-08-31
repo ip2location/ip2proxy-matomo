@@ -1,1 +1,31 @@
-{}
+{
+    "IP2Proxy": {
+        "Asn": "Proxydetaljer",
+        "City": "Stad",
+        "Country": "Land",
+        "Device": "Enhet",
+        "Domain": "Domän",
+        "FindBelowProxyDetailsReport": "Nedan hittar du gårdagens proxyrapport.",
+        "Hi": "Hej,",
+        "IP2ProxyBinDatabase": "IP2Proxy BIN Databas",
+        "Isp": "ISP",
+        "LastVisit": "Senaste besök",
+        "LastVisitDuration": "Längd för senaste besök",
+        "LifeTimeOfCacheForResultsInWeeks": "Antal veckor som resultatet måste lagras i cachen för.",
+        "NoOneVisitedWebsiteYesterday": "Vi beklagar, men ingen besökte din webbsida igår…",
+        "NumberOfVisits": "Antal besök",
+        "Proxy": "Proxy",
+        "ProxyDetails": "Proxydetaljer_test",
+        "ProxyDetailsReportSubject": "[%1$s] Din dagliga rapport / Proxydetaljer",
+        "ProxyType": "Proxytyp",
+        "ReferrerName": "Hänvisningsnamn",
+        "ReferrerType": "Hänvisningstyp",
+        "Region": "Område",
+        "SubscribeToEmailReport": "Prenumerera på e-postrapporterna",
+        "ThanksForUsing": "Tack för att du använder IP2Location-tjänsten.",
+        "Threat": "Hot",
+        "Type": "Typ",
+        "UsageType": "Användningstyp",
+        "WantToReceiveDailyReport": "Jag vill få daglig rapport via e-post med proxydetaljer för de som besökte mina webbsidor."
+    }
+}
