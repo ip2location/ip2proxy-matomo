@@ -5,6 +5,7 @@
         "Country": "Land",
         "Device": "Enhet",
         "Domain": "Domän",
+        "DownloadYourBinDatabase": "Ladda ner din kostnadsfria IP2Proxy-databas från webbplatsen %1$sIP2Location LITE%2$s. För mer exakta resultat, använd databasen %3$sIP2Proxy Commercial%4$s.<br>Ladda upp BIN-databasen till <strong>/misc</strong> och infoga den absoluta sökvägen här.",
         "FindBelowProxyDetailsReport": "Nedan hittar du gårdagens proxyrapport.",
         "Hi": "Hej,",
         "IP2ProxyBinDatabase": "IP2Proxy BIN Databas",
