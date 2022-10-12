@@ -1,1 +1,21 @@
-{}
+{
+    "IP2Proxy": {
+        "Asn": "Відомості про проксі",
+        "City": "Місто",
+        "Country": "Країна",
+        "Device": "Пристрій",
+        "Domain": "Домен",
+        "Hi": "Привіт,",
+        "IP2ProxyBinDatabase": "База даних IP2Proxy BIN",
+        "Isp": "ISP",
+        "LastVisit": "Останнє відвідування",
+        "LastVisitDuration": "Тривалість останнього відвідування",
+        "NumberOfVisits": "Кількість відвідувань",
+        "Proxy": "Проксі",
+        "ProxyDetails": "Проксі Details_test",
+        "ProxyType": "Тип проксі",
+        "Region": "Регіон",
+        "Type": "Тип",
+        "UsageType": "Тип використання"
+    }
+}
