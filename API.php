@@ -241,17 +241,10 @@ class API extends \Piwik\Plugin\API
 	private function updateCompanyDetails($item, $data)
 	{
 		try {
-			// If the server is running PHP 7.4.0 or newer
-			if ($this->isPHPVersionMoreRecentThan('7.4.0')) {
-				$asName = filter_var($data['as_name'], FILTER_SANITIZE_ADD_SLASHES);
-			} else {
-				$asName = filter_var($data['as_name'], FILTER_SANITIZE_MAGIC_QUOTES);
-			}
+			$query = 'UPDATE ' . Common::prefixTable('ip_to_company') . ' SET as_number = ?, as_name = ? WHERE id = ?';
+			$bind = array($data['as_number'], $data['as_name'], $item['id']);
 
-			$sql = 'UPDATE ' . Common::prefixTable('ip_to_company') . "
-                SET as_number = '{$data['as_number']}', as_name = '{$asName}'
-                WHERE id = {$item['id']}";
-			Db::exec($sql);
+			Db::query($query, $bind);
 		} catch (Exception $e) {
 			throw $e;
 		}
@@ -269,41 +262,12 @@ class API extends \Piwik\Plugin\API
 	private function insertCompanyDetails($data)
 	{
 		try {
-			if ($this->isPHPVersionMoreRecentThan('7.4.0')) {
-				$asName = filter_var($data['as_name'], FILTER_SANITIZE_ADD_SLASHES);
-			} else {
-				$asName = filter_var($data['as_name'], FILTER_SANITIZE_MAGIC_QUOTES);
-			}
-			$sql = 'INSERT INTO ' . Common::prefixTable('ip_to_company') . "
-                (ip, as_number, as_name) VALUES
-                ('{$data['ip']}', '{$data['as_number']}', '{$asName}')";
-			Db::exec($sql);
+			$query = 'INSERT INTO ' . Common::prefixTable('ip_to_company') . ' (ip, as_number, as_name) VALUES (?, ?, ?)';
+			$bind = array($data['ip'], $data['as_number'], $data['as_name']);
+
+			Db::query($query, $bind);
 		} catch (Exception $e) {
 			throw $e;
-		}
-
-		return true;
-	}
-
-	/**
-	 * A private methode to save the company details in the DB.
-	 *
-	 * @param mixed $version
-	 *
-	 * @return bool
-	 */
-	private function isPHPVersionMoreRecentThan($version)
-	{
-		$phpVersion = PHP_VERSION;
-		$phpVersionParts = explode('.', $phpVersion);
-		$phpMinVersionParts = explode('.', $version);
-
-		if ((int) $phpVersionParts[0] < (int) $phpMinVersionParts[0]) {
-			return false;
-		} elseif ((int) $phpVersionParts[1] < (int) $phpMinVersionParts[1]) {
-			return false;
-		} elseif ((int) $phpVersionParts[2] < (int) $phpMinVersionParts[2]) {
-			return false;
 		}
 
 		return true;
