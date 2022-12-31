@@ -5,7 +5,7 @@
         "Country": "Land",
         "Device": "Gerät",
         "Domain": "Domain",
-        "DownloadYourBinDatabase": "Laden Sie sich die kostenlose IP2Proxy-Datenbank von der %1$sIP2Location LITE%2$s Website herunter. Für genauere Ergebnisse verwenden Sie bitte die %3$sIP2Proxy Commercial%4$s-Datenbank.<br>Laden Sie die BIN-Datenbank nach <strong>/misc</strong> hoch und fügen Sie den absoluten Pfad an dieser Stelle ein.",
+        "DownloadYourBinDatabase": "Laden Sie sich die kostenlose IP2Proxy-Datenbank von der %1$sIP2Location LITE%2$s Webseite herunter. Für genauere Ergebnisse verwenden Sie bitte die %3$sIP2Proxy Commercial%4$s-Datenbank.<br>Laden Sie die BIN-Datenbank nach <strong>/misc</strong> hoch und fügen Sie den absoluten Pfad an dieser Stelle ein.",
         "FindBelowProxyDetailsReport": "Sie finden den Proxy Bericht für gestern unten.",
         "Hi": "Hallo,",
         "IP2ProxyBinDatabase": "IP2Proxy BIN Datenbank",
