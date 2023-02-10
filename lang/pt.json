@@ -1,1 +1,32 @@
-{}
+{
+    "IP2Proxy": {
+        "Asn": "Detalhes do proxy",
+        "City": "Cidade",
+        "Country": "País",
+        "Device": "Dispositivo",
+        "Domain": "Domínio",
+        "DownloadYourBinDatabase": "Baixe seu banco de dados IP2Proxy gratuito no site %1$sIP2Location LITE%2$s. Para resultados mais precisos, use o banco de dados %3$sIP2Proxy Commercial%4$s.<br>Carregue o banco de dados BIN para <strong>/misc</strong> e insira o caminho absoluto aqui.",
+        "FindBelowProxyDetailsReport": "Você encontrará abaixo o Relatório Proxy de ontem.",
+        "Hi": "Olá,",
+        "IP2ProxyBinDatabase": "Banco de dados BIN IP2Proxy",
+        "Isp": "ISP",
+        "LastVisit": "Última visita",
+        "LastVisitDuration": "Duração da última visita",
+        "LifeTimeOfCacheForResultsInWeeks": "Número de semanas durante as quais os resultados retornados devem ser armazenados em cache.",
+        "NoOneVisitedWebsiteYesterday": "Lamentamos, mas ninguém visitou seu site ontem…",
+        "NumberOfVisits": "Número de visitas",
+        "Proxy": "Proxy",
+        "ProxyDetails": "Proxy Details_test",
+        "ProxyDetailsReportSubject": "[%1$s] Seu relatório diário / Detalhes do proxy",
+        "ProxyType": "Tipo de proxy",
+        "ReferrerName": "Nome do referenciador",
+        "ReferrerType": "Tipo de referenciador",
+        "Region": "Região",
+        "SubscribeToEmailReport": "Assinar os relatórios de e-mail",
+        "ThanksForUsing": "Obrigado por usar o serviço IP2Location.",
+        "Threat": "Ameaça",
+        "Type": "Tipo",
+        "UsageType": "Tipo de uso",
+        "WantToReceiveDailyReport": "Desejo receber os relatórios diários por e-mail com os detalhes do proxy que visitaram meus sites."
+    }
+}
