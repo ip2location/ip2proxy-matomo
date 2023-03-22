@@ -5,15 +5,15 @@
         "Country": "Ülke",
         "Device": "Aygıt",
         "Domain": "Etki alanı",
-        "DownloadYourBinDatabase": "Ücretsiz IP2Proxy veritabanınızı %1$sIP2Location LITE%2$s web sitesinden indirin. Daha doğru sonuçlar için lütfen ücretli %3$sIP2Proxy Commercial%4$s veritabanını kullanın.<br>BIN veritabanını <strong>/misc</strong> dizinine yükleyin ve mutlak yolu buraya yazın.",
+        "DownloadYourBinDatabase": "Ücretsiz IP2Proxy veri tabanınızı %1$sIP2Location LITE%2$s sitesinden indirin. Daha doğru sonuçlar için lütfen ücretli %3$sIP2Proxy Commercial%4$s veri tabanını kullanın.<br>BIN veri tabanını <strong>/misc</strong> klasörüne yükleyin ve mutlak yolu buraya yazın.",
         "FindBelowProxyDetailsReport": "Dünün vekil sunucu raporunu aşağıda bulabilirsiniz.",
         "Hi": "Merhaba,",
-        "IP2ProxyBinDatabase": "IP2Proxy BIN veritabanı",
+        "IP2ProxyBinDatabase": "IP2Proxy BIN veri tabanı",
         "Isp": "İnternet hizmeti sağlayıcı",
         "LastVisit": "Son ziyaret",
         "LastVisitDuration": "Son ziyaret süresi",
         "LifeTimeOfCacheForResultsInWeeks": "Elde edilen sonuçların ön bellekte tutulacağı hafta sayısı.",
-        "NoOneVisitedWebsiteYesterday": "Maalesef web sitenizi dün hiç kimse ziyaret etmemiş…",
+        "NoOneVisitedWebsiteYesterday": "Ne yazık ki sitenizi dün hiç kimse ziyaret etmemiş…",
         "NumberOfVisits": "Ziyaret sayısı",
         "Proxy": "Vekil sunucu",
         "ProxyDetails": "Vekil sunucu ayrıntıları_sınaması",
@@ -27,6 +27,6 @@
         "Threat": "Tehdit",
         "Type": "Tür",
         "UsageType": "Kullanım türü",
-        "WantToReceiveDailyReport": "Web sitelerimi ziyaret eden vekil sunucu ayrıntılarının bulunduğu günlük raporları e-posta ile almak istiyorum."
+        "WantToReceiveDailyReport": "Sitelerimi ziyaret eden vekil sunucu ayrıntılarının bulunduğu günlük raporları e-posta ile almak istiyorum."
     }
 }
