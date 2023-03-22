@@ -1,1 +1,9 @@
-{}
+{
+    "IP2Proxy": {
+        "Asn": "Proxy details",
+        "City": "Stad",
+        "Country": "Land",
+        "Device": "Toestel",
+        "Domain": "Domein"
+    }
+}
