@@ -1,1 +1,32 @@
-{}
+{
+    "IP2Proxy": {
+        "Asn": "代理詳情",
+        "City": "城市",
+        "Country": "國家/地區",
+        "Device": "裝置",
+        "Domain": "域",
+        "DownloadYourBinDatabase": "從 %1$sIP2Location LITE%2$s 網站下載免費的 IP2Proxy 資料庫。想要獲得更精確的結果，請使用 %3$sIP2Proxy 商業版%4$s資料庫。<br>將 BIN 資料庫上載到 <strong>/misc</strong>，並在此填入絕對路徑。",
+        "FindBelowProxyDetailsReport": "您可以在下面找到昨天的代理報表。",
+        "Hi": "你好，",
+        "IP2ProxyBinDatabase": "IP2Proxy BIN 資料庫",
+        "Isp": "網路服務業者",
+        "LastVisit": "最後訪問",
+        "LastVisitDuration": "最後一次訪問停留時長",
+        "LifeTimeOfCacheForResultsInWeeks": "返回結果必須被暫存於快取的週數。",
+        "NoOneVisitedWebsiteYesterday": "很抱歉，昨天沒有人訪問您的網站……",
+        "NumberOfVisits": "訪問數",
+        "Proxy": "代理",
+        "ProxyDetails": "代理詳情",
+        "ProxyDetailsReportSubject": "[%1$s] 您的每日報表 / 代理詳情",
+        "ProxyType": "代理類型",
+        "ReferrerName": "參照連結名稱",
+        "ReferrerType": "參照連結類型",
+        "Region": "地區",
+        "SubscribeToEmailReport": "訂閱電子郵件報表",
+        "ThanksForUsing": "感謝您使用 IP2Location 服務。",
+        "Threat": "威脅",
+        "Type": "類型",
+        "UsageType": "使用類型",
+        "WantToReceiveDailyReport": "我想通過電子郵件接收每日報表，其中包含訪問我網站的代理詳情。"
+    }
+}
