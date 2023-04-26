@@ -1,6 +1,6 @@
 {
     "IP2Proxy": {
-        "Asn": "Proxy details",
+        "Asn": "ASN",
         "City": "Stad",
         "Country": "Land",
         "Device": "Toestel",
@@ -16,7 +16,7 @@
         "NoOneVisitedWebsiteYesterday": "Het spijt ons, maar gisteren heeft niemand uw website bezocht…",
         "NumberOfVisits": "Aantal bezoeken",
         "Proxy": "Proxy",
-        "ProxyDetails": "Proxy Details_test",
+        "ProxyDetails": "Proxy Details",
         "ProxyDetailsReportSubject": "[%1$s] Uw dagelijks rapport / Proxy details",
         "ProxyType": "Proxy type",
         "ReferrerName": "Referrer naam",

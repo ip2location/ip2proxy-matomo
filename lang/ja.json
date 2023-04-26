@@ -1,6 +1,6 @@
 {
     "IP2Proxy": {
-        "Asn": "プロキシ詳細",
+        "Asn": "ASN",
         "City": "市",
         "Country": "国",
         "Device": "装置",
@@ -16,7 +16,7 @@
         "NoOneVisitedWebsiteYesterday": "申し訳ございませんが、昨日は誰もウェブサイトを訪れませんでした…",
         "NumberOfVisits": "来訪回数",
         "Proxy": "プロキシ",
-        "ProxyDetails": "プロキシの詳細_test",
+        "ProxyDetails": "プロキシの詳細",
         "ProxyDetailsReportSubject": "［%1$s］あなたの日報／プロキシの詳細",
         "ProxyType": "プロキシのタイプ",
         "ReferrerName": "リファラの名",

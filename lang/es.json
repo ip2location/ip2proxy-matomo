@@ -1,6 +1,6 @@
 {
     "IP2Proxy": {
-        "Asn": "Detalles del proxy",
+        "Asn": "ASN",
         "City": "Ciudad",
         "Country": "País",
         "Device": "Dispositivo",
@@ -16,7 +16,7 @@
         "NoOneVisitedWebsiteYesterday": "Lo sentimos, pero nadie visitó su página web ayer…",
         "NumberOfVisits": "Número de visitas",
         "Proxy": "Proxy",
-        "ProxyDetails": "Proxy Details_test",
+        "ProxyDetails": "Proxy Details",
         "ProxyDetailsReportSubject": "[%1$s] Su informe diario/Detalles de proxy",
         "ProxyType": "Tipo de Proxy",
         "ReferrerName": "Nombre de referencia",

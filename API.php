@@ -74,14 +74,13 @@ class API extends \Piwik\Plugin\API
 
 		require_once PIWIK_INCLUDE_PATH . '/plugins/IP2Proxy/lib/IP2Proxy.php';
 
-		$db = new \IP2Proxy\Database();
-		$db->open($this->database, \IP2Proxy\Database::FILE_IO);
+		$db = new \IP2Proxy\Database($this->database, \IP2Proxy\Database::FILE_IO);
 
 		foreach ($response->getRows() as $visitRow) {
 			$visitIp = $visitRow->getColumn('visitIp');
 
 			// Get proxy details by the IP
-			$records = $db->getAll($visitIp);
+			$records = $db->lookup($visitIp, \IP2PROXY\Database::ALL);
 
 			foreach ($records as $key => $value) {
 				if (preg_match('/NOT SUPPORTED/', $value)) {
@@ -99,7 +98,7 @@ class API extends \Piwik\Plugin\API
 				'isp'                 => $records['isp'],
 				'domain'              => $records['domain'],
 				'usage_type'          => $records['usageType'],
-				'asn'                 => $records['asn'],
+				'asn'                 => ($records['asn'] != '-') ? ('AS' . $records['asn']) : '',
 				'threat'              => $records['threat'],
 				'last_visit_time'     => $visitRow->getColumn('lastActionDateTime'),
 				'type'                => $visitRow->getColumn('visitorType'),

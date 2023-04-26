@@ -1,6 +1,6 @@
 {
     "IP2Proxy": {
-        "Asn": "Vekil sunucu bilgileri",
+        "Asn": "ASN",
         "City": "İl",
         "Country": "Ülke",
         "Device": "Aygıt",
@@ -16,7 +16,7 @@
         "NoOneVisitedWebsiteYesterday": "Ne yazık ki sitenizi dün hiç kimse ziyaret etmemiş…",
         "NumberOfVisits": "Ziyaret sayısı",
         "Proxy": "Vekil sunucu",
-        "ProxyDetails": "Vekil sunucu ayrıntıları_sınaması",
+        "ProxyDetails": "Vekil sunucu ayrıntıları",
         "ProxyDetailsReportSubject": "[%1$s] günlük rapor / vekil sunucu ayrıntıları",
         "ProxyType": "Vekil sunucu türü",
         "ReferrerName": "Yönlendiren adı",

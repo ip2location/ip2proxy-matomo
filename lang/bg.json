@@ -1,6 +1,6 @@
 {
     "IP2Proxy": {
-        "Asn": "Подробности за прокси",
+        "Asn": "ASN",
         "City": "Град",
         "Country": "Държава",
         "Device": "Устройство",
@@ -16,7 +16,7 @@
         "NoOneVisitedWebsiteYesterday": "Съжаляваме, но никой не посети уебсайта Ви вчера…",
         "NumberOfVisits": "Брой посещения",
         "Proxy": "Прокси",
-        "ProxyDetails": "Прокси Details_test",
+        "ProxyDetails": "Прокси Details",
         "ProxyDetailsReportSubject": "[%1$s] Вашият дневен отчет / Подробности за проксито",
         "ProxyType": "Тип прокси",
         "ReferrerName": "Име на препращач",

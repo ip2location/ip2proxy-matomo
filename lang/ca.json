@@ -1,6 +1,6 @@
 {
     "IP2Proxy": {
-        "Asn": "Detalls del servidor intermediari",
+        "Asn": "ASN",
         "City": "Ciutat",
         "Country": "País",
         "Device": "Dispositiu",
@@ -16,7 +16,7 @@
         "NoOneVisitedWebsiteYesterday": "Sap greu, però ningú va visitar el teu lloc web ahir…",
         "NumberOfVisits": "Nombre de visites",
         "Proxy": "Servidor intermediari",
-        "ProxyDetails": "Detalls del proxy_prova",
+        "ProxyDetails": "Detalls del Proxy",
         "ProxyDetailsReportSubject": "[%1$s] El vostre informe diari/Detalls del servidor intermediari",
         "ProxyType": "Tipus de servidor intermediari",
         "ReferrerName": "Nom del referent",

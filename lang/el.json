@@ -1,6 +1,6 @@
 {
     "IP2Proxy": {
-        "Asn": "Λεπτομέρειες Διαμεσολαβητή",
+        "Asn": "ASN",
         "City": "Πόλη",
         "Country": "Χώρα",
         "Device": "Συσκευή",
@@ -16,7 +16,7 @@
         "NoOneVisitedWebsiteYesterday": "Ζητούμε συγγνώμη, αλλά κανείς δεν επισκέφθηκε τον ιστοτόπο σας χθες…",
         "NumberOfVisits": "Αριθμός επισκέψεων",
         "Proxy": "Διαμεσολαβητής",
-        "ProxyDetails": "Proxy Details_test",
+        "ProxyDetails": "Proxy Details",
         "ProxyDetailsReportSubject": "[%1$s] Η καθημερινή σας αναφορά / Λεπτομέρειες Διαμεσολαβητή",
         "ProxyType": "Τύπος Διαμεσολαβητή",
         "ReferrerName": "Όνομα αναφορέα",

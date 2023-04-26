@@ -1,6 +1,6 @@
 {
     "IP2Proxy": {
-        "Asn": "Proxydetaljer",
+        "Asn": "ASN",
         "City": "Stad",
         "Country": "Land",
         "Device": "Enhet",
@@ -16,7 +16,7 @@
         "NoOneVisitedWebsiteYesterday": "Vi beklagar, men ingen besökte din webbsida igår…",
         "NumberOfVisits": "Antal besök",
         "Proxy": "Proxy",
-        "ProxyDetails": "Proxydetaljer_test",
+        "ProxyDetails": "Proxy detaljer",
         "ProxyDetailsReportSubject": "[%1$s] Din dagliga rapport / Proxydetaljer",
         "ProxyType": "Proxytyp",
         "ReferrerName": "Hänvisningsnamn",

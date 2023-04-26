@@ -1,6 +1,6 @@
 {
     "IP2Proxy": {
-        "Asn": "Mellomtjener-detaljer",
+        "Asn": "ASN",
         "City": "By",
         "Country": "Land",
         "Device": "Enhet",
@@ -16,7 +16,7 @@
         "NoOneVisitedWebsiteYesterday": "Ingen har besøkt nettsiden din siden i går …",
         "NumberOfVisits": "Antall besøk",
         "Proxy": "Mellomtjener",
-        "ProxyDetails": "Mellomtjen Details_test",
+        "ProxyDetails": "Mellomtjen Details",
         "ProxyDetailsReportSubject": "[%1$s] Din daglige rapport/mellomtjenerdetaljer",
         "ProxyType": "Mellomtjenertype",
         "ReferrerName": "Henvisernavn",
