@@ -15,6 +15,18 @@
         "LifeTimeOfCacheForResultsInWeeks": "Numero di settimane durante le quali i risultati restituiti devono essere memorizzati nella cache.",
         "NoOneVisitedWebsiteYesterday": "Siamo spiacenti, ma nessuno ha visitato il tuo sito ieri…",
         "NumberOfVisits": "Numero di visite",
-        "Proxy": "Proxy"
+        "Proxy": "Proxy",
+        "ProxyDetails": "Test dettagli proxy",
+        "ProxyDetailsReportSubject": "[%1$s] Il tuo rapporto giornaliero / Dettagli Proxy",
+        "ProxyType": "Tipo di proxy",
+        "ReferrerName": "Nome del referrer",
+        "ReferrerType": "Tipo di referrer",
+        "Region": "Regione",
+        "SubscribeToEmailReport": "Iscriviti ai rapporti via e-mail",
+        "ThanksForUsing": "Grazie per aver utilizzato il servizio IP2Location.",
+        "Threat": "Minaccia",
+        "Type": "Tipologia",
+        "UsageType": "Tipo di utilizzo",
+        "WantToReceiveDailyReport": "Voglio ricevere i rapporti giornalieri via e-mail con i dettagli dei proxy che hanno visitato i miei siti web."
     }
 }
