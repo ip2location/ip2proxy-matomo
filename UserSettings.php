@@ -27,17 +27,14 @@ class UserSettings extends \Piwik\Settings\Plugin\UserSettings
 {
 	public function getSubscribedToEmailReportValueForUser($userLogin)
 	{
-		// Sanitize the user login
-		$userLogin = filter_var($userLogin, FILTER_SANITIZE_STRING, FILTER_FLAG_STRIP_HIGH);
-
 		try {
 			$sql = 'SELECT * FROM ' . Common::prefixTable('plugin_setting') . "
 					WHERE plugin_name = 'IP2Proxy'
 					AND setting_name = 'subscribedToEmailReport'
 					AND setting_value = '1'
-					AND user_login = '" . $userLogin . "'";
+					AND user_login = ?";
 
-			$result = Db::fetchAll($sql);
+			$result = Db::fetchAll($sql, [$userLogin]);
 		} catch (Exception $e) {
 			// Ignore error if table already exists
 			if (!Db::get()->isErrNo($e, '1050')) {
