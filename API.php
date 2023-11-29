@@ -16,6 +16,7 @@ use Piwik\Container\StaticContainer;
 use Piwik\DataTable;
 use Piwik\Db;
 use Piwik\Piwik;
+use Piwik\Http;
 
 const EMPTY_HOSTNAME = '-';
 
@@ -27,6 +28,7 @@ const EMPTY_HOSTNAME = '-';
 class API extends \Piwik\Plugin\API
 {
 	public $database;
+	public $ioApiKey;
 	private $staticContainer;
 
 	public function __construct(StaticContainer $staticContainer)
@@ -34,6 +36,7 @@ class API extends \Piwik\Plugin\API
 		// Get settings
 		$systemSettings = new \Piwik\Plugins\IP2Proxy\SystemSettings();
 		$this->database = $systemSettings->database->getValue();
+		$this->ioApiKey = $systemSettings->ioApiKey->getValue();
 		$this->staticContainer = $staticContainer;
 	}
 
@@ -72,15 +75,32 @@ class API extends \Piwik\Plugin\API
 			return $result;
 		}
 
-		require_once PIWIK_INCLUDE_PATH . '/plugins/IP2Proxy/lib/IP2Proxy.php';
+		if (empty($this->ioApiKey)) {
+			require_once PIWIK_INCLUDE_PATH . '/plugins/IP2Proxy/lib/IP2Proxy.php';
 
-		$db = new \IP2Proxy\Database($this->database, \IP2Proxy\Database::FILE_IO);
+			$db = new \IP2Proxy\Database($this->database, \IP2Proxy\Database::FILE_IO);
+		}
 
 		foreach ($response->getRows() as $visitRow) {
 			$visitIp = $visitRow->getColumn('visitIp');
 
-			// Get proxy details by the IP
-			$records = $db->lookup($visitIp, \IP2PROXY\Database::ALL);
+			if (empty($this->ioApiKey)) {
+				// Get proxy details by the IP
+				$records = $db->lookup($visitIp, \IP2PROXY\Database::ALL);
+			} else {
+				if (($json = json_decode(Http::sendHttpRequest('https://api.ip2location.io/?key=' . $this->ioApiKey . '&ip=' . $visitIp, 30))) !== null) {
+					$records['isProxy'] = ($json->is_proxy) ? 1 : 0;
+					$records['proxyType'] = $json->proxy_type ?? 'N/A';
+					$records['countryName'] = $json->country_name ?? 'N/A';
+					$records['regionName'] = $json->region_name ?? 'N/A';
+					$records['cityName'] = $json->city_name ?? 'N/A';
+					$records['isp'] = $json->isp ?? 'N/A';
+					$records['domain'] = $json->domain ?? 'N/A';
+					$records['usageType'] = $json->usage_type ?? 'N/A';
+					$records['asn'] = $json->asn ?? 'N/A';
+					$records['threat'] = $json->threat ?? 'N/A';
+				}
+			}
 
 			foreach ($records as $key => $value) {
 				if (preg_match('/NOT SUPPORTED/', $value)) {

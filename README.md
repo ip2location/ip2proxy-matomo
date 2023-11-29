@@ -45,6 +45,12 @@ You can download IP2Location database for free at [https://lite.ip2location.com]
 
 
 
+__Where to sign up ip2location.io Geolocation API Service?__
+
+Sign for a free account at https://www.ip2location.io/
+
+
+
 IPv4 BIN vs IPv6 BIN
 ====================
 
