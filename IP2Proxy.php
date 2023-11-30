@@ -5,7 +5,7 @@
  * Description: Get the proxy details of visitors to your website.
  * Author: IP2Location
  * Author URI: https://github.com/ip2location/ip2proxy-matomo
- * Version: 0.1.5.
+ * Version: 5.1.0.
  */
 ?><?php
 /**

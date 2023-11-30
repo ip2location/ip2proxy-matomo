@@ -43,6 +43,10 @@ __Where to download IP2Proxy database?__
 
 You can download IP2Location database for free at [https://lite.ip2location.com](https://lite.ip2location.com/ip2proxy-lite) or commercial version from [https://www.ip2location.com](https://www.ip2location.com/databases/ip2proxy)
 
+**Where to sign up ip2location.io Geolocation API Service?**
+
+Sign for a free account at https://www.ip2location.io/
+
 
 
 IPv4 BIN vs IPv6 BIN
