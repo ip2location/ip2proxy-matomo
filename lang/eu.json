@@ -1,1 +1,28 @@
-{}
+{
+    "IP2Proxy": {
+        "Asn": "ASN",
+        "City": "Hiria",
+        "Country": "Herrialdea",
+        "Device": "Gailua",
+        "Domain": "Domeinua",
+        "Hi": "Kaixo,",
+        "IP2ProxyBinDatabase": "IP2Proxy BIN datu-basea",
+        "Isp": "ISP",
+        "LastVisit": "Azken bisita",
+        "LastVisitDuration": "Azken bisitaren iraupena",
+        "NoOneVisitedWebsiteYesterday": "Sentitzen dugu, baina atzo inork ez zuen zure webgunea bisitatu…",
+        "NumberOfVisits": "Bisita kopurua",
+        "Proxy": "Proxy-a",
+        "ProxyDetails": "Proxy-aren xehetasunak",
+        "ProxyDetailsReportSubject": "{%1$s] Zure eguneroko txostena / Proxy-aren xehetasunak",
+        "ProxyType": "Proxy mota",
+        "ReferrerName": "Erreferentzia-egilearen izena",
+        "ReferrerType": "Erreferentzia-egile mota",
+        "Region": "Eskualdea",
+        "SubscribeToEmailReport": "Harpidetu posta elektroniko bidezko txostenetara",
+        "ThanksForUsing": "Eskerrik asko IP2Location zerbitzua erabiltzeagatik.",
+        "Threat": "Mehatxua",
+        "Type": "Mota",
+        "UsageType": "Erabilera mota"
+    }
+}
