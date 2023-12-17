@@ -23,6 +23,7 @@
         "ReferrerName": "Hänvisningsnamn",
         "ReferrerType": "Hänvisningstyp",
         "Region": "Område",
+        "SignUpFreeIP2LocationIo": "Anmäl dig för att få 30,000 gratis anrop per månad mot %1$sIP2Location.io%2$s. Anropet kommer kontrollera med API:t ifall detta fält är ifyllt.",
         "SubscribeToEmailReport": "Prenumerera på e-postrapporterna",
         "ThanksForUsing": "Tack för att du använder IP2Location-tjänsten.",
         "Threat": "Hot",
