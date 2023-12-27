@@ -23,6 +23,7 @@
         "ReferrerName": "Verweisname",
         "ReferrerType": "Verweistyp",
         "Region": "Region",
+        "SignUpFreeIP2LocationIo": "Melde dich für 30,000 kostenfreie Anfragen pro Monat bei %1$sIP2Location.io%2$s. Die Anfrage wird über die API abgewickelt, wenn das Feld aktiv ist.",
         "SubscribeToEmailReport": "E-Mail Berichte abonnieren",
         "ThanksForUsing": "Danke dass Sie den IP2Location Service verwenden.",
         "Threat": "Bedrohung",
