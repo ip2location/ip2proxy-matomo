@@ -5,11 +5,15 @@
         "Country": "Herrialdea",
         "Device": "Gailua",
         "Domain": "Domeinua",
+        "DownloadYourBinDatabase": "Deskargatu doako IP2Proxy datu-basea %1$sIP2Location LITE%2$s webgunetik. Emaitza zehatzagoetarako, erabili %3$sIP2Proxy komertziala%4$s datu-basea.<br>Igo BIN datu-basea <strong>/misc</strong> direktoriora eta txertatu bide absolutua hemen.",
+        "FindBelowProxyDetailsReport": "Behean aurkituko duzu atzoko proxy-en txostena.",
         "Hi": "Kaixo,",
         "IP2ProxyBinDatabase": "IP2Proxy BIN datu-basea",
+        "IoApiKey": "API gakoa (ip2location.io)",
         "Isp": "ISP",
         "LastVisit": "Azken bisita",
         "LastVisitDuration": "Azken bisitaren iraupena",
+        "LifeTimeOfCacheForResultsInWeeks": "Itzulitako emaitzak zenbat astez gorde behar diren cache-an.",
         "NoOneVisitedWebsiteYesterday": "Sentitzen dugu, baina atzo inork ez zuen zure webgunea bisitatu…",
         "NumberOfVisits": "Bisita kopurua",
         "Proxy": "Proxy-a",
@@ -19,10 +23,12 @@
         "ReferrerName": "Erreferentzia-egilearen izena",
         "ReferrerType": "Erreferentzia-egile mota",
         "Region": "Eskualdea",
+        "SignUpFreeIP2LocationIo": "Erregistratu hilean doako 30.000 kontsulta egiteko hemen: %1$sIP2Location.io%2$s. Eremu hau betea badago kontsultak APIan bilaketa egingo du.",
         "SubscribeToEmailReport": "Harpidetu posta elektroniko bidezko txostenetara",
         "ThanksForUsing": "Eskerrik asko IP2Location zerbitzua erabiltzeagatik.",
         "Threat": "Mehatxua",
         "Type": "Mota",
-        "UsageType": "Erabilera mota"
+        "UsageType": "Erabilera mota",
+        "WantToReceiveDailyReport": "Nire webguneak bisitatutako proxy-en xehetasunak jaso nahi ditut egunero e-postaz."
     }
 }
