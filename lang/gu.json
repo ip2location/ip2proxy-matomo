@@ -1,1 +1,34 @@
-{}
+{
+    "IP2Proxy": {
+        "Asn": "ASN",
+        "City": "શહેર",
+        "Country": "દેશ",
+        "Device": "ઉપકરણ",
+        "Domain": "ડોમેન",
+        "DownloadYourBinDatabase": "%1$sIP2Location LITE%2$s વેબસાઇટ પરથી તમારો મફત IP2Proxy ડેટાબેઝ ડાઉનલોડ કરો. વધુ સચોટ પરિણામો માટે, કૃપા કરીને %3$sIP2Proxy Commercial%4$s ડેટાબેઝનો ઉપયોગ કરો.<br>BIN ડેટાબેઝને <strong>/misc</strong> પર અપલોડ કરો અને અહીં સંપૂર્ણ પાથ દાખલ કરો.",
+        "FindBelowProxyDetailsReport": "તમને ગઈકાલનો પ્રોક્સી રિપોર્ટ નીચે મળશે.",
+        "Hi": "નમસ્તે,",
+        "IP2ProxyBinDatabase": "IP2Proxy BIN ડેટાબેઝ",
+        "IoApiKey": "API કી (ip2location.io)",
+        "Isp": "ISP",
+        "LastVisit": "છેલ્લી મુલાકાત",
+        "LastVisitDuration": "છેલ્લી મુલાકાતનો સમયગાળો",
+        "LifeTimeOfCacheForResultsInWeeks": "અઠવાડિયાની સંખ્યા કે જે દરમિયાન પરિણામો પાછા ફર્યા તે કૅશમાં હોવું આવશ્યક છે.",
+        "NoOneVisitedWebsiteYesterday": "અમે દિલગીર છીએ, પરંતુ ગઈકાલે કોઈએ તમારી વેબસાઇટની મુલાકાત લીધી નથી…",
+        "NumberOfVisits": "મુલાકાતોની સંખ્યા",
+        "Proxy": "પ્રોક્સી",
+        "ProxyDetails": "પ્રોક્સી વિગતો",
+        "ProxyDetailsReportSubject": "[%1$s] તમારો દૈનિક અહેવાલ / પ્રોક્સી વિગતો",
+        "ProxyType": "પ્રોક્સી પ્રકાર",
+        "ReferrerName": "રેફરર નામ",
+        "ReferrerType": "રેફરર પ્રકાર",
+        "Region": "પ્રદેશ",
+        "SignUpFreeIP2LocationIo": "%1$sIP2Location.io%2$s પર દર મહિને મફત 30,000 પ્રશ્નો માટે સાઇન અપ કરો. આ ફીલ્ડ ભરાઈ ગયું હોય તો API સાથે ક્વેરી લુકઅપ કરશે.",
+        "SubscribeToEmailReport": "ઇમેઇલ રિપોર્ટ્સ પર સબ્સ્ક્રાઇબ કરો",
+        "ThanksForUsing": "IP2Location સેવાનો ઉપયોગ કરવા બદલ આભાર.",
+        "Threat": "ખતરો",
+        "Type": "પ્રકાર",
+        "UsageType": "ઉપયોગનો પ્રકાર",
+        "WantToReceiveDailyReport": "હું મારી વેબસાઇટ્સની મુલાકાત લેનાર પ્રોક્સી વિગતો સાથે ઇમેઇલ દ્વારા દૈનિક અહેવાલો પ્રાપ્ત કરવા માંગુ છું."
+    }
+}
