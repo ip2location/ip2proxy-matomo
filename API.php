@@ -31,7 +31,7 @@ class API extends \Piwik\Plugin\API
 	public function __construct(StaticContainer $staticContainer)
 	{
 		// Get settings
-		$systemSettings = new \Piwik\Plugins\IP2Proxy\SystemSettings();
+		$systemSettings = new SystemSettings();
 		$this->database = $systemSettings->database->getValue();
 		$this->ioApiKey = $systemSettings->ioApiKey->getValue();
 		$this->staticContainer = $staticContainer;
@@ -66,11 +66,15 @@ class API extends \Piwik\Plugin\API
 
 		$result = $response->getEmptyClone($keepFilters = false);
 
-		if (!file_exists($this->database)) {
+		if (empty($this->database) && empty($this->ioApiKey)) {
 			return $result;
 		}
 
-		if (empty($this->ioApiKey)) {
+		if (!empty($this->database)) {
+			if (!file_exists($this->database)) {
+				return $result;
+			}
+
 			require_once PIWIK_INCLUDE_PATH . '/plugins/IP2Proxy/lib/IP2Proxy.php';
 
 			$db = new \IP2Proxy\Database($this->database, \IP2Proxy\Database::FILE_IO);
@@ -79,11 +83,14 @@ class API extends \Piwik\Plugin\API
 		foreach ($response->getRows() as $visitRow) {
 			$visitIp = $visitRow->getColumn('visitIp');
 
-			if (empty($this->ioApiKey)) {
+			if (!empty($this->database)) {
 				// Get proxy details by the IP
 				$records = $db->lookup($visitIp, \IP2PROXY\Database::ALL);
 			} else {
-				if (($json = json_decode(Http::sendHttpRequest('https://api.ip2location.io/?key=' . $this->ioApiKey . '&ip=' . $visitIp, 30))) !== null) {
+				if (($json = json_decode(Http::sendHttpRequest('https://api.ip2location.io/?' . http_build_query([
+					'key' => $this->ioApiKey,
+					'ip'  => $visitIp,
+				]), 30))) !== null) {
 					$records = [
 						'isProxy'     => ($json->is_proxy) ? 1 : 0,
 						'proxyType'   => $json->proxy_type ?? 'N/A',

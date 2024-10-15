@@ -1,7 +1,7 @@
 {
     "name": "IP2Proxy",
     "description": "Get the proxy details of visitors to your website.",
-    "version": "5.1.0",
+    "version": "5.1.2",
     "theme": false,
     "require": {
         "matomo": ">=5.0.0-b1,<6.0.0-b1"
