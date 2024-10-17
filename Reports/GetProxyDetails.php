@@ -37,11 +37,12 @@ class GetProxyDetails extends Base
 
 		$view->config->show_search = true;
 		$view->config->show_pagination_control = true;
-		$view->config->show_limit_control = true;
+		$view->config->show_limit_control = false;
 		$view->config->show_periods = true;
 		$view->config->show_bar_chart = false;
 		$view->config->show_pie_chart = false;
 		$view->config->show_tag_cloud = false;
+		$view->config->show_offset_information = false;
 		// $view->requestConfig->filter_sort_column = 'nb_visits';
 		// $view->requestConfig->filter_limit = 10';
 
