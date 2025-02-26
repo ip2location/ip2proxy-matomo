@@ -23,7 +23,7 @@
 		"ReferrerName": "Referrer name",
 		"ReferrerType": "Referrer type",
 		"Region": "Region",
-		"SignUpFreeIP2LocationIo": "Sign up for free 30,000 queries per month at %1$sIP2Location.io%2$s. Query will lookup with API is this field is filled.",
+		"SignUpFreeIP2LocationIo": "Sign up for free 50,000 queries per month at %1$sIP2Location.io%2$s. Query will lookup with API is this field is filled.",
 		"SubscribeToEmailReport": "Subscribe to the email reports",
 		"ThanksForUsing": "Thanks for using IP2Location service.",
 		"Threat": "Threat",
