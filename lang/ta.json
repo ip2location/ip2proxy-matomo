@@ -1,1 +1,34 @@
-{}
+{
+    "IP2Proxy": {
+        "Asn": "ASN",
+        "City": "நகரம்",
+        "Country": "நாடு",
+        "Device": "சாதனம்",
+        "Domain": "டொமைன்",
+        "DownloadYourBinDatabase": "உங்கள் இலவச IP2Proxy தரவுத்தளத்தை %1$sIP2Location Lite %2$s வலைத்தளத்திலிருந்து பதிவிறக்கவும். மேலும் துல்லியமான முடிவுகளுக்கு, தயவுசெய்து %3$sIP2Proxy வணிக %4$s தரவுத்தளத்தைப் பயன்படுத்தவும்.",
+        "FindBelowProxyDetailsReport": "நேற்று பதிலாள் அறிக்கைக்கு கீழே காணலாம்.",
+        "Hi": "ஆய்,",
+        "IP2ProxyBinDatabase": "Ip2proxy பின் தரவுத்தளம்",
+        "IoApiKey": "பநிஇ key (ip2location.io)",
+        "Isp": "ISP",
+        "LastVisit": "கடைசி வருகை",
+        "LastVisitDuration": "கடைசி வருகை காலம்",
+        "LifeTimeOfCacheForResultsInWeeks": "முடிவுகள் திரும்பிய வாரங்களின் எண்ணிக்கை தற்காலிக சேமிப்பாக இருக்க வேண்டும்.",
+        "NoOneVisitedWebsiteYesterday": "மன்னிக்கவும், ஆனால் நேற்று யாரும் உங்கள் வலைத்தளத்தைப் பார்வையிடவில்லை…",
+        "NumberOfVisits": "வருகைகளின் எண்ணிக்கை",
+        "Proxy": "பதிலாள்",
+        "ProxyDetails": "பதிலாள் விவரங்கள்",
+        "ProxyDetailsReportSubject": "[%1$s] உங்கள் நாள்தோறும் அறிக்கை / பதிலாள் விவரங்கள்",
+        "ProxyType": "பதிலாள் வகை",
+        "ReferrerName": "குறிப்பு பெயர்",
+        "ReferrerType": "குறிப்பு வகை",
+        "Region": "பகுதி",
+        "SignUpFreeIP2LocationIo": "%1$sip2location.io %2$s இல் மாதத்திற்கு 30,000 வினவல்களுக்கு இலவசமாக பதிவுபெறுக. வினவல் பநிஇ உடன் தேடும் இந்த புலம் நிரப்பப்பட்டுள்ளது.",
+        "SubscribeToEmailReport": "மின்னஞ்சல் அறிக்கைகளுக்கு குழுசேரவும்",
+        "ThanksForUsing": "IP2Location சேவையைப் பயன்படுத்தியதற்கு நன்றி.",
+        "Threat": "அச்சுறுத்தல்",
+        "Type": "வகை",
+        "UsageType": "பயன்பாட்டு வகை",
+        "WantToReceiveDailyReport": "எனது வலைத்தளங்களைப் பார்வையிட்ட பதிலாள் விவரங்களுடன் மின்னஞ்சல் மூலம் நாள்தோறும் அறிக்கைகளைப் பெற விரும்புகிறேன்."
+    }
+}
