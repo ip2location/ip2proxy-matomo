@@ -1,1 +1,34 @@
-{}
+{
+    "IP2Proxy": {
+        "Asn": "ASN",
+        "City": "Cathair",
+        "Country": "Tír",
+        "Device": "Gléas",
+        "Domain": "Fearann",
+        "DownloadYourBinDatabase": "Íoslódáil do bhunachar sonraí IP2Proxy saor in aisce ó shuíomh Gréasáin %1$sIP2Location LITE%2$s. Chun torthaí níos cruinne a fháil, úsáid bunachar sonraí %3$sIP2Proxy Commercial%4$s.<br>Uaslódáil an bunachar ARAID go <strong>/misc</strong> agus cuir isteach an cosán iomlán anseo.",
+        "FindBelowProxyDetailsReport": "Gheobhaidh tú thíos an Tuarascáil Seachfhreastalaí don lá inné.",
+        "Hi": "Haigh,",
+        "IP2ProxyBinDatabase": "Bunachar Sonraí ARAID IP2Proxy",
+        "IoApiKey": "Eochair API (ip2location.io)",
+        "Isp": "ISP",
+        "LastVisit": "Cuairt dheireanach",
+        "LastVisitDuration": "Fad na cuairte deiridh",
+        "LifeTimeOfCacheForResultsInWeeks": "An líon seachtainí ina gcaithfear na torthaí a chuirtear ar ais a thaisceadh.",
+        "NoOneVisitedWebsiteYesterday": "Tá brón orainn, ach níor thug éinne cuairt ar do shuíomh Gréasáin inné…",
+        "NumberOfVisits": "Líon na gcuairteanna",
+        "Proxy": "Seachfhreastalaí",
+        "ProxyDetails": "Sonraí Seachfhreastalaí",
+        "ProxyDetailsReportSubject": "[%1$s] Do thuairisc laethúil / Sonraí Seachfhreastalaí",
+        "ProxyType": "Cineál Seachfhreastalaí",
+        "ReferrerName": "Ainm an tarchuir",
+        "ReferrerType": "Cineál atreoraithe",
+        "Region": "Réigiún",
+        "SignUpFreeIP2LocationIo": "Cláraigh le haghaidh 30,000 fiosrúchán saor in aisce in aghaidh na míosa ag %1$sIP2Location.io%2$s. Déanfar cuardach le API an bhfuil an réimse seo líonta.",
+        "SubscribeToEmailReport": "Liostáil leis na tuarascálacha ríomhphoist",
+        "ThanksForUsing": "Go raibh maith agat as seirbhís IP2Location a úsáid.",
+        "Threat": "Bagairt",
+        "Type": "Cineál",
+        "UsageType": "Cineál Úsáide",
+        "WantToReceiveDailyReport": "Ba mhaith liom na tuarascálacha laethúla a fháil trí ríomhphost leis na sonraí seachfhreastalaí a thug cuairt ar mo shuíomhanna Gréasáin."
+    }
+}
