@@ -1,1 +1,28 @@
-{}
+{
+    "IP2Proxy": {
+        "Asn": "ASN",
+        "City": "Město",
+        "Country": "Země",
+        "Device": "Zařízení",
+        "Domain": "Doména",
+        "Hi": "Ahoj,",
+        "IP2ProxyBinDatabase": "IP2Proxy BIN Database",
+        "IoApiKey": "API Klíč (ip2location.io)",
+        "Isp": "ISP",
+        "LastVisit": "Poslední návštěva",
+        "LastVisitDuration": "Trvání poslední návštěvy",
+        "LifeTimeOfCacheForResultsInWeeks": "Počet týdnů, během nichž musí být vrácené výsledky uloženy v mezipaměti.",
+        "NoOneVisitedWebsiteYesterday": "Je nám líto, ale vaše webové stránky včera nikdo nenavštívil…",
+        "NumberOfVisits": "Počet návštěv",
+        "Proxy": "Proxy",
+        "ProxyDetails": "Podrobnosti o proxy",
+        "ProxyDetailsReportSubject": "[%1$s] Váš denní přehled / podrobnosti o proxy",
+        "Region": "Region",
+        "SignUpFreeIP2LocationIo": "Zaregistrujte se zdarma na 30 000 dotazů měsíčně na %1$sIP2Location.io%2$s. Dotaz bude vyhledávat pomocí API, pokud je toto pole vyplněno.",
+        "SubscribeToEmailReport": "Přihlaste se k odběru e-mailových zpráv",
+        "ThanksForUsing": "Děkujeme za používání služby IP2Location.",
+        "Threat": "Hrozba",
+        "Type": "Typ",
+        "WantToReceiveDailyReport": "Chci dostávat denní zprávy e-mailem s údaji o proxy serverech, které navštívily mé webové stránky."
+    }
+}
