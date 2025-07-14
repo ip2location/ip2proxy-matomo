@@ -1,6 +1,6 @@
 {
     "IP2Proxy": {
-        "Asn": "代理详情",
+        "Asn": "ASN号",
         "City": "城市",
         "Country": "国家",
         "Device": "设备",
