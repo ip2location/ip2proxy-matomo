@@ -1,1 +1,11 @@
-{}
+{
+    "IP2Proxy": {
+        "Asn": "ASN",
+        "City": "Grad",
+        "Country": "Zemlja",
+        "Device": "Uređaj",
+        "Domain": "Domena",
+        "LastVisit": "Zadnja posjeta",
+        "Region": "Regija"
+    }
+}
