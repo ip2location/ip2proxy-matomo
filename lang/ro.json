@@ -1,1 +1,12 @@
-{}
+{
+    "IP2Proxy": {
+        "City": "Oraş",
+        "Country": "Ţară",
+        "Device": "Dispozitiv",
+        "Domain": "Domeniu",
+        "LastVisit": "Ultima vizita",
+        "NumberOfVisits": "Numar de vizite",
+        "Region": "Regiune",
+        "Type": "Tip"
+    }
+}
