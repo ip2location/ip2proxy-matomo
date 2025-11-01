@@ -1,1 +1,8 @@
-{}
+{
+    "IP2Proxy": {
+        "City": "నగరం",
+        "Country": "దేశం",
+        "NumberOfVisits": "సందర్శనల సంఖ్య",
+        "Type": "రకం"
+    }
+}
