@@ -1,1 +1,12 @@
-{}
+{
+    "IP2Proxy": {
+        "City": "Linn",
+        "Country": "Riik",
+        "Device": "Seade",
+        "Domain": "Domeen",
+        "LastVisit": "Viimane külastus",
+        "NumberOfVisits": "Külastuste arv",
+        "Region": "Regioon",
+        "Type": "Tüüp"
+    }
+}
