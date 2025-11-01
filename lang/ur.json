@@ -1,1 +1,7 @@
-{}
+{
+    "IP2Proxy": {
+        "City": "شہر",
+        "Country": "ملک",
+        "NumberOfVisits": "دوروں کی تعداد"
+    }
+}
