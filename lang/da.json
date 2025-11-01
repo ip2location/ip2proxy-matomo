@@ -1,1 +1,12 @@
-{}
+{
+    "IP2Proxy": {
+        "City": "By",
+        "Country": "Land",
+        "Device": "Enhed",
+        "Domain": "Domæne",
+        "LastVisit": "Seneste besøg",
+        "NumberOfVisits": "Antal besøg",
+        "Region": "Region",
+        "Type": "Type"
+    }
+}
