@@ -1,1 +1,9 @@
-{}
+{
+    "IP2Proxy": {
+        "City": "Mesto",
+        "Country": "Država",
+        "NumberOfVisits": "Število obiskov",
+        "Region": "Regija",
+        "Type": "Tip"
+    }
+}
