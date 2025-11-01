@@ -1,1 +1,12 @@
-{}
+{
+    "IP2Proxy": {
+        "City": "Kaupunki",
+        "Country": "Maa",
+        "Device": "Laite",
+        "Domain": "Verkkotunnus",
+        "LastVisit": "Edellinen käynti",
+        "NumberOfVisits": "Käyntien lukumäärä",
+        "Region": "Alue",
+        "Type": "Tyyppi"
+    }
+}
