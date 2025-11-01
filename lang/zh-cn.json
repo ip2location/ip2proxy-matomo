@@ -4,6 +4,11 @@
         "City": "城市",
         "Country": "国家",
         "Device": "设备",
-        "Domain": "域名"
+        "Domain": "域名",
+        "Isp": "ISP服务商",
+        "LastVisit": "最后访问",
+        "NumberOfVisits": "访问次数",
+        "Region": "地区",
+        "Type": "类型"
     }
 }
