@@ -1,1 +1,12 @@
-{}
+{
+    "IP2Proxy": {
+        "City": "Grad",
+        "Country": "Zemlja",
+        "Device": "Uređaj",
+        "Domain": "Domen",
+        "LastVisit": "Poslednja poseta",
+        "NumberOfVisits": "Broj poseta",
+        "Region": "Regija",
+        "Type": "Tip"
+    }
+}
