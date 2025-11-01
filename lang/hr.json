@@ -5,7 +5,10 @@
         "Country": "Zemlja",
         "Device": "Uređaj",
         "Domain": "Domena",
+        "Isp": "ISP",
         "LastVisit": "Zadnja posjeta",
-        "Region": "Regija"
+        "NumberOfVisits": "Broj posjeta",
+        "Region": "Regija",
+        "Type": "Vrsta"
     }
 }
