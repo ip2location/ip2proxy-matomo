@@ -1,1 +1,7 @@
-{}
+{
+    "IP2Proxy": {
+        "Country": "País",
+        "NumberOfVisits": "Número de Visitas",
+        "Region": "Rexión"
+    }
+}

@@ -1,1 +1,6 @@
-{}
+{
+    "IP2Proxy": {
+        "Isp": "ISP",
+        "NumberOfVisits": "Broj posjeta"
+    }
+}

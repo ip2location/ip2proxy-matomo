@@ -1,1 +1,12 @@
-{}
+{
+    "IP2Proxy": {
+        "City": "Lungsod",
+        "Country": "Bansa",
+        "Device": "Aparato",
+        "Domain": "Domain",
+        "LastVisit": "Huling pagbisita",
+        "NumberOfVisits": "Bilang ng mga bumisita",
+        "Region": "Rehiyon",
+        "Type": "Uri"
+    }
+}

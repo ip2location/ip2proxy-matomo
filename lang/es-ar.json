@@ -1,1 +1,9 @@
-{}
+{
+    "IP2Proxy": {
+        "Device": "Dispositivo",
+        "Domain": "Dominio",
+        "Isp": "ISP",
+        "LastVisit": "Última visita",
+        "Type": "Tipo"
+    }
+}

@@ -1,1 +1,13 @@
-{}
+{
+    "IP2Proxy": {
+        "City": "شهر",
+        "Country": "کشور",
+        "Device": "وسیله",
+        "Domain": "دامنه",
+        "Isp": "آی اس پی",
+        "LastVisit": "اخرین بازدید",
+        "NumberOfVisits": "تعداد بازدید ها",
+        "Region": "منطقه",
+        "Type": "نوع"
+    }
+}
