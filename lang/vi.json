@@ -1,1 +1,11 @@
-{}
+{
+    "IP2Proxy": {
+        "City": "Thành phố",
+        "Country": "Quốc gia",
+        "Domain": "Tên miền",
+        "LastVisit": "Lượt truy cập cuối cùng",
+        "NumberOfVisits": "Số lượt truy cập",
+        "Region": "Vùng",
+        "Type": "Kiểu"
+    }
+}
