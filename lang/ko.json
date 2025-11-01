@@ -1,1 +1,12 @@
-{}
+{
+    "IP2Proxy": {
+        "City": "도시",
+        "Country": "국가",
+        "Device": "기기장치",
+        "Domain": "도메인",
+        "LastVisit": "최근 방문",
+        "NumberOfVisits": "방문수",
+        "Region": "지역",
+        "Type": "유형"
+    }
+}
