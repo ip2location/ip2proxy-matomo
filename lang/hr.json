@@ -5,10 +5,14 @@
         "Country": "Zemlja",
         "Device": "Uređaj",
         "Domain": "Domena",
+        "Hi": "Zdravo,",
         "Isp": "ISP",
         "LastVisit": "Zadnja posjeta",
         "NumberOfVisits": "Broj posjeta",
+        "ReferrerName": "Ime uputitelja",
+        "ReferrerType": "Vrsta uputitelja",
         "Region": "Regija",
+        "SubscribeToEmailReport": "Pretplati se na izvještaje putem e-pošte",
         "Type": "Vrsta"
     }
 }
