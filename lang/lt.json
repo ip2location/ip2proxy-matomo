@@ -3,8 +3,10 @@
         "City": "Miestas",
         "Country": "Šalis",
         "Device": "Įrenginys",
+        "Hi": "Labas",
         "LastVisit": "Paskutinis apsilankymas",
         "NumberOfVisits": "Apsilankymų kiekis",
+        "Proxy": "Tarpininkas",
         "Region": "Regionas",
         "Type": "Tipas"
     }
