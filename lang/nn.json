@@ -1,8 +1,34 @@
 {
     "IP2Proxy": {
+        "Asn": "ASN",
+        "City": "By",
         "Country": "Land",
+        "Device": "Eining",
+        "Domain": "Domene",
+        "DownloadYourBinDatabase": "Last ned den gratis IP2Proxy-databasen din frå nettstaden %1$sIP2Location LITE%2$s. For meir nøyaktige resultat brukar du databasen %3$sIP2Proxy Commercial%4$s.<br>Last opp BIN-databasen til <strong>/misc</strong> og set inn den absolutte stien her.",
+        "FindBelowProxyDetailsReport": "Nedanfor finn du proxy-rapporten for i går.",
+        "Hi": "Hei,",
+        "IP2ProxyBinDatabase": "IP2Proxy BIN-database",
+        "IoApiKey": "API-nøkkel (ip2location.io)",
         "Isp": "ISP",
+        "LastVisit": "Siste besøk",
+        "LastVisitDuration": "Varigheit for siste besøk",
+        "LifeTimeOfCacheForResultsInWeeks": "Kor mange veker resultata skal mellomlagrast.",
+        "NoOneVisitedWebsiteYesterday": "Diverre besøkte ingen nettstaden din i går …",
         "NumberOfVisits": "Tal på vitjingar",
-        "Type": "Type"
+        "Proxy": "Proxy",
+        "ProxyDetails": "Proxy-detaljar",
+        "ProxyDetailsReportSubject": "[%1$s] Den daglege rapporten din / proxy-detaljar",
+        "ProxyType": "Proxy-type",
+        "ReferrerName": "Tilvisarnamn",
+        "ReferrerType": "Tilvisartype",
+        "Region": "Region",
+        "SignUpFreeIP2LocationIo": "Registrer deg for 30 000 gratis spørjingar per månad på %1$sIP2Location.io%2$s. Oppslaga blir gjorde med API-et viss dette feltet er fylt ut.",
+        "SubscribeToEmailReport": "Abonner på e-postrapportane",
+        "ThanksForUsing": "Takk for at du brukar IP2Location-tenesta.",
+        "Threat": "Trugsmål",
+        "Type": "Type",
+        "UsageType": "Brukstype",
+        "WantToReceiveDailyReport": "Eg vil få daglege rapportar på e-post med detaljar om proxyane som besøkte nettstadene mine."
     }
 }
