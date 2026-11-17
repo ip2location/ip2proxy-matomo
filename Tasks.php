@@ -207,7 +207,8 @@ class Tasks extends \Piwik\Plugin\Tasks
 						$styles .= ' border-right: solid 1px #DEDEDE;';
 					}
 
-					$html .= "<td style='" . $styles . "'>" . $value . '</td>';
+					// Visit values can come from visitors, so escape them.
+					$html .= "<td style='" . $styles . "'>" . htmlspecialchars((string) $value, ENT_QUOTES | ENT_SUBSTITUTE, 'UTF-8') . '</td>';
 				}
 
 				$html .= '</tr>';
