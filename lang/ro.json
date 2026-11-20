@@ -1,12 +1,34 @@
 {
     "IP2Proxy": {
+        "Asn": "ASN",
         "City": "Oraş",
         "Country": "Ţară",
         "Device": "Dispozitiv",
         "Domain": "Domeniu",
+        "DownloadYourBinDatabase": "Descărcați baza de date gratuită IP2Proxy de pe site-ul %1$sIP2Location LITE%2$s. Pentru rezultate mai exacte, folosiți baza de date %3$sIP2Proxy Commercial%4$s.<br>Încărcați baza de date BIN în <strong>/misc</strong> și introduceți aici calea absolută.",
+        "FindBelowProxyDetailsReport": "Mai jos găsiți raportul proxy pentru ziua de ieri.",
+        "Hi": "Bună ziua,",
+        "IP2ProxyBinDatabase": "Baza de date BIN IP2Proxy",
+        "IoApiKey": "Cheie API (ip2location.io)",
+        "Isp": "ISP",
         "LastVisit": "Ultima vizita",
+        "LastVisitDuration": "Durata ultimei vizite",
+        "LifeTimeOfCacheForResultsInWeeks": "Numărul de săptămâni în care rezultatele returnate trebuie păstrate în cache.",
+        "NoOneVisitedWebsiteYesterday": "Ne pare rău, dar nimeni nu v-a vizitat site-ul ieri…",
         "NumberOfVisits": "Numar de vizite",
+        "Proxy": "Proxy",
+        "ProxyDetails": "Detalii proxy",
+        "ProxyDetailsReportSubject": "[%1$s] Raportul dumneavoastră zilnic / Detalii proxy",
+        "ProxyType": "Tip proxy",
+        "ReferrerName": "Nume referent",
+        "ReferrerType": "Tip referent",
         "Region": "Regiune",
-        "Type": "Tip"
+        "SignUpFreeIP2LocationIo": "Înregistrați-vă gratuit pentru 30.000 de interogări pe lună pe %1$sIP2Location.io%2$s. Dacă acest câmp este completat, interogarea se va face prin API.",
+        "SubscribeToEmailReport": "Abonare la rapoartele prin e-mail",
+        "ThanksForUsing": "Vă mulțumim că folosiți serviciul IP2Location.",
+        "Threat": "Amenințare",
+        "Type": "Tip",
+        "UsageType": "Tip de utilizare",
+        "WantToReceiveDailyReport": "Doresc să primesc prin e-mail rapoartele zilnice cu detaliile proxy-urilor care mi-au vizitat site-urile."
     }
 }
